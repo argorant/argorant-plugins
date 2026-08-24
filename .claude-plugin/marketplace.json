@@ -34,7 +34,8 @@
         "url": "https://github.com/argorant/argorant-plugins.git",
         "path": "plugins/argorant",
         "ref": "main"
-      }
+      },
+      "displayName": "Argorant"
     }
   ]
 }
