@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "argorant",
+  "description": "Verified B2B contact data for agents. Search 565M business professionals, size a market for free, reveal or export when the segment is right.",
+  "owner": {
+    "name": "Argorant",
+    "email": "support@argorant.com",
+    "url": "https://argorant.com"
+  },
+  "plugins": [
+    {
+      "name": "argorant",
+      "description": "Give your agent verified B2B contact data. Describe an ideal customer in plain language and Argorant works out the filters, counts the population and returns a masked preview. Counts and previews are free. Revealing contacts and creating CSV exports spend credits from your own Argorant account, and those tools are marked as actions so you are always asked first. Covers 565M business professionals across 184 countries, with addresses checked at export time rather than at collection time.",
+      "author": {
+        "name": "Argorant",
+        "email": "support@argorant.com",
+        "url": "https://argorant.com"
+      },
+      "category": "data",
+      "keywords": [
+        "b2b",
+        "sales",
+        "prospecting",
+        "contact-data",
+        "lead-generation",
+        "market-research",
+        "enrichment"
+      ],
+      "homepage": "https://argorant.com",
+      "documentation": "https://argorant.com/docs/mcp",
+      "license": "MIT",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/argorant/argorant-plugins.git",
+        "path": "plugins/argorant",
+        "ref": "main"
+      }
+    }
+  ]
+}

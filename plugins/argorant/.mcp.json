@@ -1,0 +1,6 @@
+{
+  "argorant": {
+    "type": "http",
+    "url": "https://mcp.argorant.com/mcp"
+  }
+}

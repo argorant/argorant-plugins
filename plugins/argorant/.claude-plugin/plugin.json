@@ -1,0 +1,14 @@
+{
+  "name": "argorant",
+  "version": "1.0.0",
+  "description": "Verified B2B contact data for agents: size a market for free, reveal or export when the segment is right.",
+  "author": {
+    "name": "Argorant",
+    "email": "support@argorant.com",
+    "url": "https://argorant.com"
+  },
+  "homepage": "https://argorant.com",
+  "repository": "https://github.com/argorant/argorant-plugins",
+  "license": "MIT",
+  "keywords": ["b2b", "sales", "prospecting", "contact-data", "lead-generation"]
+}
